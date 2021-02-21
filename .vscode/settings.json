@@ -1,0 +1,4 @@
+{
+	"python.pythonPath": "/home/sandeep/Desktop/projects/IR2021_A1_34/venv/bin/python3.8",
+	"python.formatting.provider": "black"
+}
