@@ -1,13 +1,19 @@
 # Information Retrieval Assignment 1
 
-Team: [Sandeep](), [Sajeel](https://github.com/khansajeel), [Shekhar](https://github.com/24sharkS), [Nischal](https://github.com/nischal18350), [Devender](https://github.com/DS-654)
+### Team: [Sandeep](), [Sajeel](https://github.com/khansajeel), [Shekhar](https://github.com/24sharkS), [Nischal](https://github.com/nischal18350), [Devender](https://github.com/DS-654)
+
 ## Directory Structure
 
- - [stories](stories)				# Contains all files that needs to be indexed 
- - [main.ipynb](main.ipynb)			# Inverted Index creation code
- - [mapping.json](mapping.json) 		# Mapping of document ID with document location
- - [output.json](output.json)			# Inverted Index i.e terms with list of DocID containing them
- - [requirements.txt](requirements.txt) 	# Libraries required for running this project 
+| FIle      | Description |
+| ----------- | ----------- |
+| [stories](stories)      | Contains all files that needs to be indexed        |
+| [main.ipynb](main.ipynb)   | Inverted Index creation code        |
+| [Comparators.ipynb](Comparators.ipynb)|	 Performs the query on the created Inverted Index|
+| [mapping.json](mapping.json) 	|	Mapping of document ID with document location|
+| [output.json](output.json)		| Inverted Index(without stemming) i.e terms with list of DocID ntaining them|
+| [outputStemmed.json](outputStemmed.json)	| Inverted Index(with stemming) i.e terms with list  DocID containing them |
+| [requirements.txt](requirements.txt) | Libraries required for running this project |
+
 
 
 ## Methodology
